@@ -1,1 +1,83 @@
+<!DOCTYPE html>
+<html lang="pa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ਬਰਾੜ ਨਰਸਰੀ - Brar Nursery Bhalliana</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f9f4;
+            color: #333;
+            text-align: center;
+        }
+        header {
+            background-color: #2e7d32;
+            color: white;
+            padding: 25px 15px;
+        }
+        h1 { margin: 0; font-size: 28px; }
+        p.subtitle { margin-top: 5px; font-size: 16px; opacity: 0.9; }
+        .container {
+            padding: 20px;
+            max-width: 600px;
+            margin: auto;
+        }
+        .card {
+            background: white;
+            padding: 20px;
+            margin: 15px 0;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            text-align: left;
+        }
+        .card h3 { color: #2e7d32; margin-top: 0; }
+        ul { padding-left: 20px; }
+        li { margin-bottom: 8px; }
+        .btn {
+            display: inline-block;
+            background-color: #25d366;
+            color: white;
+            padding: 12px 20px;
+            text-decoration: none;
+            border-radius: 25px;
+            font-weight: bold;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
 
+    <header>
+        <h1>ਬਰਾੜ ਨਰਸਰੀ</h1>
+        <p class="subtitle">Brar Nursery, Bhalliana</p>
+    </header>
+
+    <div class="container">
+        <div class="card">
+            <h3>ਜੀ ਆਇਆਂ ਨੂੰ!</h3>
+            <p>ਸਾਡੇ ਕੋਲ ਹਰ ਕਿਸਮ ਦੇ ਵਧੀਆ ਅਤੇ ਵਧੀਆ ਕੁਆਲਿਟੀ ਦੇ ਪੌਦੇ ਉਪਲਬਧ ਹਨ।</p>
+        </div>
+
+        <div class="card">
+            <h3>ਖਾਸ ਪੌਦੇ (Special Varieties)</h3>
+            <ul>
+                <li><strong>ਅੰਬਾਰਪਾਲੀ ਅੰਬ (Ambarpali Mango)</strong> - ਵਧੀਆ ਝਾੜ ਵਾਲੀ ਕਿਸਮ</li>
+                <li><strong>ਇੰਡੋਰ ਅਤੇ ਡੈਕੋਰੇਟਿਵ ਪੌਦੇ</strong> - ਘਰ ਅਤੇ ਦਫ਼ਤਰ ਲਈ</li>
+                <li><strong>ਛਾਂ ਵਾਲੇ ਪੌਦੇ (Shade Plants)</strong></li>
+                <li><strong>ਫਲਦਾਰ ਅਤੇ ਫੁੱਲਦਾਰ ਬੂਟੇ</strong></li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h3>ਪਤਾ (Address)</h3>
+            <p>ਬਠਿੰਡਾ - ਮੁਕਤਸਰ ਰੋਡ, ਭੱਲਿਆਣਾ (Bathinda to Muktsar Road, Bhalliana)</p>
+            
+            <a href="https://wa.me/" class="btn">WhatsApp 'ਤੇ ਸੰਪਰਕ ਕਰੋ</a>
+        </div>
+    </div>
+
+</body>
+</html>
